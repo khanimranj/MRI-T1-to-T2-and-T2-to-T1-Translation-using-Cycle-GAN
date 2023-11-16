@@ -11,6 +11,6 @@ NOTE: The T1 and T2 MRI Images included in the dataset are not related in any wa
  
 Project pipeline
 The project pipeline can be briefly summarized in the following four steps:
-•	Data Understanding: Here, weload the data and create the dataset for it.
+•	Data Understanding: Here, we load the data and create the dataset for it.
 •	Image Processing: In this step, we process the images using different steps.
 •	Model-Building and Training: This is the final step at which we create your Generators and Discriminators using a modified U-Net architecture(similar to CycleGAN). We also have to define the loss function and training step for model training.
